@@ -1,10 +1,36 @@
-# ALIFE2025ScavengerHunt
-Details for the ALIFE 2025 Scavenger Hunt
+# ALIFE2025 Scavenger Hunt
+Want to have even more fun at this year's conference? Why not get involved in the first-ever ALIFE Conference Scavenger Hunt! This is your chance to engage with the conference in interesting ways, explore Kyoto, and connect with fellow attendees in a unique and memorable way.
+
+**How it works:**
+1. Form & Register Your Team: 
+Create a team of exactly three (3) members and register here by 12:00 PM on Monday, October 6th JST. Designate one team member as the Team Captain. The Team Captain will be our primary point of contact and will receive your unique Team ID.
+2. Access the Task List: 
+You can see a complete list of the available tasks below (there are almost 200).  This list will include a wide variety of tasks, from finding specific locations/objects/scenes in Kyoto, engaging with conference content, people, or finding hidden items.
+3. Complete Tasks & Quests: 
+During the conference, work with your team to complete as many tasks and quests as you can. Each task is worth a specific number of points, listed on the task sheet below. Some tasks are simple and quick, while others are multi-step quests that require more effort and collaboration.
+4. Submit Your Completion:
+All submissions must be made via the [Submission Form](https://forms.gle/q9vBDpSbysMW4Ld79). For each task, you will need to:
+Enter your team ID.
+Select the task name from a dropdown menu.
+Upload your required evidence (e.g., a photo, video clip, or sound recording).
+
+5. Submissions & Scoring:
+Platform: All submissions will be made via the dedicated [Submission Form.](https://forms.gle/q9vBDpSbysMW4Ld79)
+Validation: Submissions will be reviewed for accuracy. Make sure your evidence is clear and meets all the requirements specified in the task list.
+Prizes: The winning team will be announced at the closing ceremony on the final day of the conference. Prizes will be awarded to the team with the highest total score.
+Rules: The spirit of the scavenger hunt is fun and fair play. Submissions found to be dishonest will not be included. Have fun and be creative! 
 
 
 # Task List
 
-There are over 150 different tasks to
+Below is the complete task list for your reference. Select a task to complete, gather your evidence, and submit it via the [Submission Form.](https://forms.gle/q9vBDpSbysMW4Ld79) before the deadline.
+
+Tasks are categorised into fivev different types:
+- Find This! (Kyoto): Specific types of items for you to locate in Kyoto.
+- Find This! (General): Short prompts open to interpretation, giving you the chance to be a bit creative with your submissions.
+- Eat This!: A list of food and drink-based tasks. Remember to take photos (or videos) of you trying the different foods.
+- Conference Tasks!: Specific items, people, events, and situations to look out for during the conference.
+- One-Shot Items: Special tasks that can only be claimed by a single team, but that are worth huge amounts of points.
 
 # Find This! (Kyoto)
 | Task Number | Task Name | Points |
