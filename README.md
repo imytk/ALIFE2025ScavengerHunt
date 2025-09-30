@@ -3,7 +3,7 @@ Want to have even more fun at this year's conference? Why not get involved in th
 
 **How it works:**
 1. Form & Register Your Team: 
-Create a team of exactly three (3) members and register here by 12:00 PM on Monday, October 6th JST. Designate one team member as the Team Captain. The Team Captain will be our primary point of contact and will receive your unique Team ID.
+Create a team of exactly three (3) members and register [**using this link**](https://forms.gle/rBWAvsxwNVf7uS4F6) by 12:00 PM on Monday, October 6th JST. Designate one team member as the Team Captain. The Team Captain will be our primary point of contact and will receive your unique Team ID.
 2. Access the Task List: 
 You can see a complete list of the available tasks below (there are almost 200).  This list will include a wide variety of tasks, from finding specific locations/objects/scenes in Kyoto, engaging with conference content, people, or finding hidden items.
 3. Complete Tasks & Quests: 
@@ -25,7 +25,7 @@ Rules: The spirit of the scavenger hunt is fun and fair play. Submissions found 
 
 Below is the complete task list for your reference. Select a task to complete, gather your evidence, and submit it via the [Submission Form.](https://forms.gle/q9vBDpSbysMW4Ld79) before the deadline.
 
-Tasks are categorised into fivev different types:
+Tasks are categorised into five different types:
 - Find This! (Kyoto): Specific types of items for you to locate in Kyoto.
 - Find This! (General): Short prompts open to interpretation, giving you the chance to be a bit creative with your submissions.
 - Eat This!: A list of food and drink-based tasks. Remember to take photos (or videos) of you trying the different foods.
